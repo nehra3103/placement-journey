@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nehra/Developer/placement-journey/day001/main'
+relocations:     []
+...
