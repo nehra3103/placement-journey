@@ -74,3 +74,5 @@ Prime number checking is a classic interview problem and builds the foundation f
 - Mathematics
 - Number Theory
 - Prime Numbers
+
+This is the end of day 6
