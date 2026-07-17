@@ -1,4 +1,4 @@
-# Day 12 - Palindrome Number
+# Day 11 - Palindrome Number
 
 ## 📌 Problem Statement
 
