@@ -1,4 +1,4 @@
-# Day 13 - Armstrong Number
+# Day 8 - Armstrong Number
 
 ## 📌 Problem Statement
 
