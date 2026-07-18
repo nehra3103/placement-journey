@@ -1,4 +1,4 @@
-# Day 11 - Fibonacci Series (First N Terms)
+# Day 7 - Fibonacci Series (First N Terms)
 
 ## 📌 Problem Statement
 
