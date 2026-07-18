@@ -1,4 +1,4 @@
-# Day 14 - Factorial of a Number
+# Day 8 - Factorial of a Number
 
 ## 📌 Problem Statement
 
