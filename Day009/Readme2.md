@@ -1,4 +1,4 @@
-# Day 16 - Greatest of Three Numbers
+# Day 9 - Greatest of Three Numbers
 
 ## 📌 Problem Statement
 
