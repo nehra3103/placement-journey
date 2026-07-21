@@ -1,4 +1,4 @@
-# Day 15 - Sum of Digits
+# Day 9 - Sum of Digits
 
 ## 📌 Problem Statement
 
